@@ -53,6 +53,8 @@ rename($diretorio . $value, $diretorio . $key . " " . rtrim($arrayContratante[0]
 
 	echo "Arquivo " . $value . " renomeado para " . $key . " " . rtrim($arrayContratante[0]) . " - " . $arrayContratante[1] . ".pdf" . "<br>";
 
+
+	//file_put_contents("log " . date("h:i:s") . ".txt", "Arquivo " . $value . " renomeado para " . $key . " " . rtrim($arrayContratante[0]) . " - " . $arrayContratante[1] . ".pdf\n", FILE_APPEND);
 //echo ( "Document header title : " . ( ( string ) $captures -> Title[1] ) . "\n" ) ;
 
 
