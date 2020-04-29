@@ -1,0 +1,54 @@
+[Page : 1, width = 613, height = 793]
+
+[x:24.68, y:726.96, w: 0, h:12, font:/F1]ILMO SR(A)
+
+[x:24.68, y:709.2, w: 0, h:12, font:/F0]BORTOLOTTO FERRO E ACO LTDA                    COD.: 2020-0
+
+[x:24.68, y:695.08, w: 0, h:12, font:/F0]AV PARIGOT DE SOUZA,1415 - 0
+
+[x:24.68, y:680.92, w: 0, h:12, font:/F0]JARDIM PORTO ALEGRE
+
+[x:24.68, y:666.8, w: 0, h:12, font:/F0]85.906-070 - TOLEDO - PR
+
+[x:151.12, y:559.52, w: 0, h:12, font:/F1]DECLARAÇÃO DE QUITAÇÃO ANUAL DE DÉBITOS
+
+[x:25.56, y:472.44, w: 0, h:12, font:/F0]UN COSTA OESTE COOP TRAB MED
+[x:25.56, y:472.44, w: 0, h:12, font:/F0]Pelo presente instrumento, a 
+[x:25.56, y:472.44, w: 0, h:12, font:/F0]1º
+[x:25.56, y:472.44, w: 0, h:12, font:/F0], cooperativa de 
+[x:25.56, y:472.44, w: 0, h:12, font:/F0] grau, atuando como
+
+[x:25.56, y:458.28, w: 0, h:12, font:/F0], em
+[x:25.56, y:458.28, w: 0, h:12, font:/F0]78.931.391/0001-55
+[x:25.56, y:458.28, w: 0, h:12, font:/F0]operadora de planos privados de assistência à saúde, inscrita no CNPJ/MF sob o nº 
+
+[x:25.56, y:443.88, w: 0, h:12, font:/F0]cumprimento da Lei 12.007/09, vem, 
+[x:25.56, y:443.88, w: 0, h:12, font:/F0], ao Sr.(a) 
+[x:25.56, y:443.88, w: 0, h:12, font:/F0]BORTOLOTTO FERRO E ACO
+[x:25.56, y:443.88, w: 0, h:12, font:/F1]DECLARAR QUITAÇÃO
+
+[x:25.56, y:429.76, w: 0, h:12, font:/F0]LTDA
+[x:25.56, y:429.76, w: 0, h:12, font:/F0], inscrito(a) sob código nº  
+[x:25.56, y:429.76, w: 0, h:12, font:/F0]2020
+[x:25.56, y:429.76, w: 0, h:12, font:/F0]-
+[x:25.56, y:429.76, w: 0, h:12, font:/F0]0
+[x:25.56, y:429.76, w: 0, h:12, font:/F0], dos débitos referentes ao Contrato Particular de Prestação de Serviços
+
+[x:25.56, y:415.6, w: 0, h:12, font:/F0]Médicos, Hospitalares, Serviços de Diagnóstico e Terapia, correspondentes ao período de 
+[x:25.56, y:415.6, w: 0, h:12, font:/F0].
+[x:25.56, y:415.6, w: 0, h:12, font:/F0]2019
+
+[x:25.56, y:401.48, w: 0, h:12, font:/F0] 
+
+[x:25.56, y:387.32, w: 0, h:12, font:/F0]A presente declaração substitui, para a comprovação do cumprimento das obrigações do consumidor, as quitações
+
+[x:25.56, y:373.2, w: 0, h:12, font:/F0]dos faturamentos mensais dos débitos do ano a que se refere
+[x:25.56, y:373.2, w: 0, h:12, font:/F0].
+
+[x:25.56, y:316.6, w: 0, h:12, font:/F0]Toledo,23 de abril de 2020
+[x:25.56, y:316.6, w: 0, h:12, font:/F0]. 
+
+[x:25.56, y:288.32, w: 0, h:12, font:/F0]                                       
+
+[x:25.56, y:273.96, w: 0, h:12, font:/F1]                                                      
+[x:25.56, y:273.96, w: 0, h:12, font:/F1]UN COSTA OESTE COOP TRAB MED
